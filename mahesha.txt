@@ -1,0 +1,19 @@
+                  FAITH HOSPITAL          
+Phone : +91 987655432           Email : faith@hospital.com
+__________________________________________________________
+                   Patient Details             
+       Name : mahesha      Age : 56     Sex : m    
+       Weight : 67        Address : udupi
+       Phone : 9901328371          Date : 2023-06-28
+       Illness : fever     Medical History : none
+__________________________________________________________
+About illness : common flu 
+
+Medicines Given :
+- dolo 
+
+Foods to Eat : 
+- water 
+
+ Note : good 
+            ~~~~ Get Well Soon ~~~~            

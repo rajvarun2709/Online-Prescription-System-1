@@ -1,0 +1,19 @@
+                  FAITH HOSPITAL          
+Phone : +91 987655432           Email : faith@hospital.com
+__________________________________________________________
+                   Patient Details             
+       Name : srajan      Age : 20     Sex : m    
+       Weight : 67        Address : mangalore
+       Phone : 9901328371          Date : 2023-06-26
+       Illness : flu     Medical History : none
+__________________________________________________________
+About illness : its  a common flu 
+
+Medicines Given :
+- dtol 
+
+Foods to Eat : 
+- drink water , no hard food 
+
+ Note : thank you 
+            ~~~~ Get Well Soon ~~~~            
